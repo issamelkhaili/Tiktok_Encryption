@@ -36,7 +36,7 @@ void crypt(const char *text) {
 }
 
 int main() {
-    char text[] = "Hello123";
+    char text[] = "Example";
     crypt(text);
     return 0;
 }
